@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Custom/Module">
+        <file>CustomItem.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>
