@@ -12,7 +12,8 @@ SOURCES += \
 # imports the related qrc
 RESOURCES += \
     $$PWD/qml/qml.qrc \
-    $$PWD/qml/Custom/Module/custom-module.qrc
+    $$PWD/qml/Custom/Module/custom-module.qrc \
+    $$PWD/qml/Custom/Module/Themes/custom-module-themes.qrc
 
 # import the root folder including the module
 QML_IMPORT_PATH = qml

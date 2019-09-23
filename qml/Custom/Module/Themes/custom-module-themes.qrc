@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Custom/Module/Themes">
+        <file>CustomItemTheme.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>

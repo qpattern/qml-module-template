@@ -1,0 +1,3 @@
+module Custom.Module.Themes
+
+CustomItemTheme 1.0 CustomItemTheme.qml
