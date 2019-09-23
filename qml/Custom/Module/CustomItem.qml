@@ -8,6 +8,8 @@ Item {
     property CustomItemTheme theme : CustomItemTheme{}
     
     Text {
+        objectName: "label"
+
         anchors.fill: parent
 
         text: "Hello world!"
