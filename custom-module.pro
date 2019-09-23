@@ -6,6 +6,9 @@ CONFIG += c++11
 
 DEFINES += QT_DEPRECATED_WARNINGS
 
+DISTFILES += \
+    $$PWD/README.md
+
 SOURCES += \
     $$PWD/main.cpp
 
